@@ -23,7 +23,7 @@ if problem == '1.6':
 
     # file(problem 1.6.txt) with all needed inputs(each number on a different line, in that order):
     # modulus(m), number to inverse(k)
-    # test data(in the same order):
+    # test data(in the same order as should be in file):
     # 7, -3
     # 3, 2
     # 5, 7
@@ -59,7 +59,7 @@ elif problem == '1.9':
 
     # file(problem 1.9.txt) with all needed inputs(each number on a different line, in that order):
     # base, power, modulus
-    # test data(in the same order):
+    # test data(in the same order as should be in file):
     # 0, 3, 6
     # -6, 7, 10
     # 0.5, 5, 9
@@ -93,7 +93,7 @@ elif problem == '2':
 
     # file(problem 2.txt) with all needed inputs(each number on different line, in that order):
     # p, q, e, m(message to encrypt), c(message to decrypt)
-    # test data(the same order):
+    # test data(the same order as should be in file):
     # 8783, 9133, 5, 34367293, 62190030
     # 23, 19, 5, 33, 264
     # 13, 7, 5, 4, 16
@@ -137,7 +137,7 @@ elif problem == '3':
 
     # file(problem 3.txt) with all needed inputs(each number on a different line, in that order):
     # message, signature, n, e
-    # test data(the same order):
+    # test data(the same order as should be in file):
     # 123, 49259120, 80215139, 5
     # 555, 59131983, 80215139, 5
     # 1234567, 58520412, 80215139, 5
@@ -180,7 +180,7 @@ elif problem == '5':
 
     # file(problem 5.txt) with all needed inputs(each number on a different line, in that order):
     # message, p, q, e [data to calculate d and n]
-    # test data(the same order):
+    # test data(the same order as should be in file):
     # 123, 8783, 9133, 5
     # 300, 23, 19, 5
     # 30, 13, 7, 7
